@@ -1,3 +1,5 @@
+# Launching Steam
+
 # Preparing the Input Devices
 
 There are 5 key components to the VIVE:
@@ -10,7 +12,7 @@ The Head Unit will automatically turn on when you load a VR Application, or open
 
 Each controller will emit an audible tone, similar to the Mario Coin chime, when they are connected and ready.
 
-Once the SteamVR applet opens, you should see the the following status window:
+Once the SteamVR applet opens, you should see the the following status window:  
 ![](/assets/VR Status-OK.png)
 
 If all the components are Green[^1], you are ready to go. If one or more of the devices are not ready, move to the [Troubleshooting](/troubleshooting.md) section.
