@@ -1,10 +1,16 @@
+# Going into Virtual Reality
+
 1\) Navigate to the Library tab within Steam \(the word "LIBRARY" will be highlighted white when you are in the right tab\)
 
 ![](/assets/Steam-Menu-Bar.png)
 
-
+2\) Select an application to Launch
 
 ![](/assets/Steam-App-List.png)
+
+\(We will be adding countless VR applications as we begin to work with more and more faculty. For more information on what applications to choose/what each app entails, contact Sean Hauze or someone else in the FIT center who with VR experience.\)
+
+
 
 **Be careful.** When in the VR world, you will not be able to see anything aside outside the head piece. Make sure to be wary of the blue grid that appears when you walk to close to a boundary, they are there to ensure that you do not hurt yourself on the real environment around you.
 
