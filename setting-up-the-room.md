@@ -1,6 +1,16 @@
 # Launching Steam
 
+\(Steam is the application that houses all of the virtual reality applications\)
+
+1\) Double-click the Steam icon found on the Desktop
+
 ![](/assets/Desktop-Steam.png)
+
+\(NOTE: Steam may ask for the login credentials. In this case, contact Sean Hauze to gain access.\)
+
+
+
+1\) Navigate to the Library tab within Steam \(the word "LIBRARY" will be highlighted white when you are in the right tab\)
 
 ![](/assets/Steam-VR-Button.png)
 
