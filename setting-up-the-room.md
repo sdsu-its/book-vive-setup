@@ -1,5 +1,9 @@
 # Launching Steam
 
+![](/assets/Desktop-Steam.png)
+
+// TODO Get VR Button Screenshot
+
 # Preparing the Input Devices
 
 There are 5 key components to the VIVE:
