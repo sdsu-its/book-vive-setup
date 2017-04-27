@@ -2,7 +2,9 @@
 
 ![](/assets/Desktop-Steam.png)
 
-// TODO Get VR Button Screenshot
+![](/assets/Steam-VR-Button.png)
+
+Click on the VR button in the top right corner of Steam to bring up the VR Applet, which help you prepare your input devices.
 
 # Preparing the Input Devices
 
