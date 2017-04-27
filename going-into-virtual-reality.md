@@ -1,4 +1,8 @@
+1\) Navigate to the Library tab within Steam \(the word "LIBRARY" will be highlighted white when you are in the right tab\)
+
 ![](/assets/Steam-Menu-Bar.png)
+
+
 
 ![](/assets/Steam-App-List.png)
 

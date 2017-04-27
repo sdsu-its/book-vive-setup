@@ -10,11 +10,11 @@
 
 
 
-1\) Navigate to the Library tab within Steam \(the word "LIBRARY" will be highlighted white when you are in the right tab\)
+Click on the VR button in the top right corner of Steam to bring up the VR Applet, which help you prepare your input devices.
 
 ![](/assets/Steam-VR-Button.png)
 
-Click on the VR button in the top right corner of Steam to bring up the VR Applet, which help you prepare your input devices.
+
 
 # Preparing the Input Devices
 
