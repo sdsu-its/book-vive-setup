@@ -6,15 +6,13 @@
 
 ![](/assets/Desktop-Steam.png)
 
-\(NOTE: Steam may ask for the login credentials. In this case, contact Sean Hauze to gain access.\)
+NOTE: Steam may ask for the login credentials. In this case, contact Staff Member to login.
 
 
 
 Click on the VR button in the top right corner of Steam to bring up the VR Applet, which help you prepare your input devices.
 
 ![](/assets/Steam-VR-Button.png)
-
-
 
 # Preparing the Input Devices
 
