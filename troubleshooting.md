@@ -1,6 +1,8 @@
-# Disconnected Hand Controllers
+# Troubleshooting
 
-### If you see:
+## Disconnected Hand Controllers
+
+## If you see:
 
 ![](/assets/SteamVR-NoHands.png)
 
@@ -10,9 +12,9 @@ This means that your handheld controllers are not connected
 
 Make sure that the controllers are turned on by pressing the concave button underneath the large circular trackpad on each controller; doing so should result in a green light directly under the concave button.
 
-# Head Unit Not Connected
+## Head Unit Not Connected
 
-### If you see:
+## If you see:
 
 ![](/assets/SteamVR-HeadUnit-Error.png)
 

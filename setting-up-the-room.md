@@ -1,6 +1,7 @@
-# Launching Steam
+# Setting Up the Room
+## Launching Steam
 
-\(Steam is the application that houses all of the virtual reality applications\)
+Steam is the application that houses all of the virtual reality applications
 
 1\) Double-click the Steam icon found on the Desktop
 
@@ -14,7 +15,7 @@ Click on the VR button in the top right corner of Steam to bring up the VR Apple
 
 ![](/assets/Steam-VR-Button.png)
 
-# Preparing the Input Devices
+## Preparing the Input Devices
 
 There are 5 key components to the VIVE:
 
