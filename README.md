@@ -3,6 +3,7 @@
 This guide covers the Setup, Use, and Troubleshooting of the HTC Vive and VR setup in the FIT Center at [Instructional Technology Services](https://its.sdsu.edu).
 
 ---
+Cover Image comes from Google's [Tilt Brush](https://www.tiltbrush.com/) Project.
 
 ## License
 
