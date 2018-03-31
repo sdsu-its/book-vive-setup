@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Setting Up the Room](setting-up-the-room.md)

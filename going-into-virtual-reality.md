@@ -2,11 +2,11 @@
 
 Navigate to the Library tab within Steam. The word "LIBRARY" will be highlighted white when you are in the right tab.
 
-![](/assets/Steam-Menu-Bar.png)
+![](.gitbook/assets/steam-menu-bar.png)
 
 Select an application to Launch
 
-![](/assets/Steam-App-List.png)
+![](.gitbook/assets/steam-app-list.png)
 
 We are adding countless VR applications as we begin to work with more and more faculty. For more information on what applications to choose/what each app entails, contact a FIT Center Consultant.
 

@@ -1,19 +1,18 @@
 # Setting Up the Room
+
 ## Launching Steam
 
 Steam is the application that houses all of the virtual reality applications
 
 1\) Double-click the Steam icon found on the Desktop
 
-![](/assets/Desktop-Steam.png)
+![](.gitbook/assets/desktop-steam.png)
 
 NOTE: Steam may ask for the login credentials. In this case, contact Staff Member to login.
 
-
-
 Click on the VR button in the top right corner of Steam to bring up the VR Applet, which help you prepare your input devices.
 
-![](/assets/Steam-VR-Button.png)
+![](.gitbook/assets/steam-vr-button.png)
 
 ## Preparing the Input Devices
 
@@ -27,10 +26,9 @@ The Head Unit will automatically turn on when you load a VR Application, or open
 
 Each controller will emit an audible tone, similar to the Mario Coin chime, when they are connected and ready.
 
-Once the SteamVR applet opens, you should see the the following status window:  
-![](/assets/VR Status-OK.png)
+Once the SteamVR applet opens, you should see the the following status window:
 
-If all the components are Green[^1], you are ready to go. If one or more of the devices are not ready, move to the [Troubleshooting](/troubleshooting.md) section.
+![](.gitbook/assets/vr-status-ok.png)
 
-[^1]: The Head Unit will occasionally be shown in a green outline, move the device to wake it.
+If all the components are Green, you are ready to go. If one or more of the devices are not ready, move to the [Troubleshooting](troubleshooting.md) section.
 

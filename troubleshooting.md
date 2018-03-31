@@ -4,7 +4,7 @@
 
 ## If you see:
 
-![](/assets/SteamVR-NoHands.png)
+![](.gitbook/assets/steamvr-nohands.png)
 
 This means that your handheld controllers are not connected
 
@@ -16,7 +16,7 @@ Make sure that the controllers are turned on by pressing the concave button unde
 
 ## If you see:
 
-![](/assets/SteamVR-HeadUnit-Error.png)
+![](.gitbook/assets/steamvr-headunit-error.png)
 
 This means that the headpiece is not being registered.
 
